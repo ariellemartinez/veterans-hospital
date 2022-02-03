@@ -1,0 +1,7 @@
+facility_id,facility_name,address,city,state,zip_code,county_name,phone_number,condition,measure_id,measure_name,score,sample,footnote,start_date,end_date
+33019F,NORTHPORT VA MEDICAL CENTER,79 MIDDLEVILLE ROAD,NORTHPORT,NY,11768,SUFFOLK,(516) 261-4400,Inpatient Psychiatric Facility Measures,HBIPS-2,Hours of physical-restraint use,0,4484,20,01/01/2020,12/31/2020
+33019F,NORTHPORT VA MEDICAL CENTER,79 MIDDLEVILLE ROAD,NORTHPORT,NY,11768,SUFFOLK,(516) 261-4400,Inpatient Psychiatric Facility Measures,HBIPS-3,Hours of seclusion,0,4484,20,01/01/2020,12/31/2020
+33019F,NORTHPORT VA MEDICAL CENTER,79 MIDDLEVILLE ROAD,NORTHPORT,NY,11768,SUFFOLK,(516) 261-4400,Inpatient Psychiatric Facility Measures,SUB_2,Alcohol use brief intervention provided or offered,36,110,"2, 20",01/01/2020,12/31/2020
+33019F,NORTHPORT VA MEDICAL CENTER,79 MIDDLEVILLE ROAD,NORTHPORT,NY,11768,SUFFOLK,(516) 261-4400,Inpatient Psychiatric Facility Measures,SUB_3,Alcohol and other drug use disorder treatment provided or offered at discharge,83,36,"2, 20",01/01/2020,12/31/2020
+33019F,NORTHPORT VA MEDICAL CENTER,79 MIDDLEVILLE ROAD,NORTHPORT,NY,11768,SUFFOLK,(516) 261-4400,Inpatient Psychiatric Facility Measures,TOB_2,Tobacco Use Treatment Provided or Offered,69,88,"2, 20",01/01/2020,12/31/2020
+33019F,NORTHPORT VA MEDICAL CENTER,79 MIDDLEVILLE ROAD,NORTHPORT,NY,11768,SUFFOLK,(516) 261-4400,Inpatient Psychiatric Facility Measures,TOB_3,Tobacco Use Treatment Provided or Offered at Discharge,72,50,"2, 20",01/01/2020,12/31/2020
